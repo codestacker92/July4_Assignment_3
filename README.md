@@ -76,5 +76,3 @@ We’d love to hear from you — whether it’s about a new project, partnership
 ## 📝 License
 
 All content and code in this repository is © 2025 **Codexa**. All rights reserved.  
-
----
