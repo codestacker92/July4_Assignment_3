@@ -70,6 +70,7 @@ We’d love to hear from you — whether it’s about a new project, partnership
 - 🌐 Website: [https://codexa.dev](https://codexa.dev) *(coming soon)*  
 - 🐦 Twitter: [@codexa_dev](https://twitter.com/codexa_dev)  
 - 💼 LinkedIn: [linkedin.com/company/codexa](https://linkedin.com/company/codexa)
+! [scarlett] (https://pbs.twimg.com/profile_images/924904413260476416/MAvwo3m2_400x400.jpg)
 
 ---
 
